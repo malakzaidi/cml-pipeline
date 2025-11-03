@@ -1,8 +1,5 @@
 {
-  "model": "SVM (RBF kernel)",
   "accuracy": 1.0,
-  "precision_macro": 1.0,
-  "recall_macro": 1.0,
-  "f1_macro": 1.0,
+  "n_estimators": 100,
   "test_size": 30
 }
